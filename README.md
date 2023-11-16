@@ -1,4 +1,4 @@
-# Car-Auction-Project 
+# Car Auction Project 
 
 ## Objective:
 Create an interactive Tableau dashboard displaying findings from a detailed Python analysis. Explore relationships between variables, test hypotheses using advanced techniques, and present key results visually.
