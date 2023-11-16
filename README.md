@@ -13,4 +13,4 @@ Design a Tableau dashboard narrating the analysis journey. Include an introducti
 The project involves thorough Python analysis and a Tableau dashboard to showcase insights gained. The dashboard tells the story of the analysis journey, emphasizing key findings and suggesting next steps for deeper exploration.
 
 Tableau: 
-[Dashboard](https://public.tableau.com/shared/HW267N7MJ?:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/shared/CRZW7NP5B?:display_count=n&:origin=viz_share_link)
